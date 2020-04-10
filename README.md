@@ -1,4 +1,4 @@
-# Passport-Field-extraction-using-MRZ-Scanner
+# Passport-Field-extraction-using-MRZ-Scanner | PassportEye
 Passports have some fields with credentials that are of utmost importance.These fields can be used to verify the document to enhance security measures.So, fields are extracted using python instead of traditional OCR method. 
 
 Passport was used to extract the data fields of the passport.
